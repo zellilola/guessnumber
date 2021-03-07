@@ -1,1 +1,1 @@
-# initial commit
+print('Hello world')
